@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "FitFuel India",
+    "slug": "fitfuel-india",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0B100E"
+    },
+    "android": {
+      "package": "com.fitfuelindia.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0B100E"
+      }
+    }
+  }
+}
